@@ -511,6 +511,28 @@ footer .TextP {
 
 }
 
+/* === ДОДАНО ДЛЯ ФОТО === */
+
+.ZK {
+  display: inline-block;
+  margin: 20px;
+  text-align: center;
+}
+
+.Vas {
+  width: 280px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.Rol {
+  display: block;
+  margin-top: 8px;
+  font-size: 18px;
+  text-decoration: none;
+  color: #003366;
+  font-weight: bold;
+}
 
 @media (min-width: 427px) and (max-width: 739px) {
  .hero {
@@ -811,3 +833,4 @@ max-width: 350px;
     height: 300px;
 }
 }
+
